@@ -1,0 +1,6 @@
+{
+  "name": "JobTrackr",
+  "description": "Job Application Tracker with AI Resume Analyzer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
